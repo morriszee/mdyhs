@@ -1,0 +1,16 @@
+
+    
+#bgcolor {
+    height: 1000px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */
+}
+  
+  
+  #textFX {
+    
+    background: red;
+    font-size: 75;
+    color: green;
+    
+  }
